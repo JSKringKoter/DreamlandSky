@@ -1,0 +1,10 @@
+??:天空万里无云。 -fontSize=default;
+星河灿烂，繁星如雨。 -fontSize=default;
+每当看到这片无边的星空，我都会想起你的名字，还有那段旅行。 -fontSize=default;
+那一段旅行……或许已经不该称作旅行…… -fontSize=default;
+……那是与你的故事…… -fontSize=default;
+与你，我们一同的故事。 -fontSize=default;
+我们从未设想过开始，也从未构思过结局的故事。 -fontSize=default;
+changeBg:background_white.png;
+setAnimation:exit -target=0;
+changeScene:weekand.txt

@@ -1,0 +1,5 @@
+Game_name:Dreamland Sky;
+Game_key:93d2d163d3ebf88;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:background.png;
